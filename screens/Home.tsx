@@ -10,6 +10,8 @@ type HomeScreenNavigationProp = NativeStackNavigationProp<
   'Home'
 >;
 
+<Text>Probando Git commit</Text>
+
 type Props = {
   navigation: HomeScreenNavigationProp;
 };
