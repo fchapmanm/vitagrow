@@ -1,0 +1,82 @@
+{
+    "id": "springonion-001",
+    "name": "Spring Onion",
+    "scientificName": "Allium fistulosum",
+    "category": "roots",
+    "difficulty": "easy",
+    "growthTime": 45,
+    "spaceRequired": "small",
+    "imageUrl": "https://images.unsplash.com/photo-1546470427-e5dd2d8b48d4?w=500&h=500&fit=crop",
+    "basicInfo": {
+      "description": "Spring onions, also called scallions or green onions, are fast-growing and versatile. Both the green tops and the small white bulbs are edible.",
+      "whyGrow": [
+        "Harvest in as little as 4–6 weeks",
+        "Use both greens and bulbs in cooking",
+        "Grow easily in containers or small spaces"
+      ],
+      "bestFor": ["quick harvest", "small gardens", "everyday cooking"],
+      "spacing": "5-10cm between plants",
+      "sunlight": "6 hours of direct sun daily",
+      "water": "Keep soil evenly moist, water lightly but regularly"
+    },
+    "growingSteps": [
+      "Prepare loose, well-draining soil",
+      "Sow seeds 1 cm deep in rows",
+      "Thin seedlings to about 5cm apart",
+      "Water regularly to keep soil moist",
+      "Harvest young onions when stems are thick enough"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds outdoors",
+        "description": "Plant seeds 1 cm deep in rows.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Thin seedlings",
+        "description": "Leave 5–10cm spacing between the strongest seedlings.",
+        "frequency": "once"
+      },
+      {
+        "week": 4,
+        "task": "First harvest",
+        "description": "Cut greens or pull small onions as needed.",
+        "frequency": "weekly"
+      },
+      {
+        "week": 6,
+        "task": "Continuous harvest",
+        "description": "Harvest regularly to encourage more shoots.",
+        "frequency": "weekly"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "symptoms": ["Leaf tips turning yellow"],
+        "causes": ["Overwatering", "Nutrient deficiency"],
+        "solutions": ["Check drainage", "Apply balanced fertilizer"]
+      },
+      {
+        "problem": "Slow growth",
+        "symptoms": ["Plants stay thin and weak"],
+        "causes": ["Crowded planting", "Lack of sunlight"],
+        "solutions": ["Thin plants properly", "Move to sunnier spot"]
+      }
+    ],
+    "harvestingGuide": "Harvest spring onions when stems reach pencil thickness. Pull the whole plant or cut leaves 2–3cm above the base to regrow. Continuous harvesting keeps them productive.",
+    "nutrition": {
+      "calories": 32,
+      "vitamins": ["Vitamin A", "Vitamin C", "Vitamin K"],
+      "minerals": ["Calcium", "Iron", "Potassium"]
+    },
+    "estimatedSavings": "Growing spring onions can save $20–40 per season, as supermarket bunches cost $2–3 and fresh harvest lasts for months.",
+    "images": {
+      "mainPath": "Plants/springonion/springonion.avif",
+      "main": "Plants/springonion/springonion.avif",
+      "thumbnail": "Plants/springonion/springonion.avif"
+    }
+  }
+  

@@ -1,0 +1,103 @@
+{
+  "id": "basil-001",
+  "name": "Basil",
+  "scientificName": "Ocimum basilicum",
+  "category": "herbs",
+  "difficulty": "easy",
+  "growthTime": 30,
+  "spaceRequired": "small",
+  "imageUrl": "Plants/basil/basil.jpg",
+  "basicInfo": {
+    "description": "Sweet basil is one of the easiest herbs to grow. It thrives in warm weather, grows quickly in small spaces, and adds fresh flavor to many dishes.",
+    "whyGrow": [
+      "Adds incredible flavor to pasta, pizza, and salads",
+      "Ready to harvest in just 4 weeks",
+      "Perfect for small spaces and windowsills",
+      "Attracts pollinators and beneficial insects",
+      "Cheaper than buying fresh basil weekly"
+    ],
+    "bestFor": ["beginners", "small spaces", "quick results", "Italian cooking", "indoor growing"],
+    "spacing": "15-20cm between plants",
+    "sunlight": "4-6 hours of direct sun daily (can grow in partial shade)",
+    "water": "Keep soil moist but not soggy - water when the top feels dry"
+  },
+  "growingSteps": [
+    "Fill a small container (15-20cm deep) with potting mix",
+    "Sow seeds 0.5 cm deep or plant seedlings",
+    "Place in a sunny windowsill or balcony",
+    "Water when soil surface feels dry",
+    "Pinch off flower buds to encourage leaf growth",
+    "Harvest leaves from the top down, leaving lower leaves",
+    "Fertilize lightly every 2 weeks during growing season"
+  ],
+  "careCalendar": [
+    {
+      "week": 1,
+      "task": "Daily watering check",
+      "description": "Check soil every morning. If the top feels dry, add a little water.",
+      "frequency": "daily"
+    },
+    {
+      "week": 2,
+      "task": "Thin seedlings",
+      "description": "Remove weaker sprouts and leave the strongest ones spaced apart.",
+      "frequency": "once"
+    },
+    {
+      "week": 3,
+      "task": "First harvest",
+      "description": "Pinch top leaves to encourage bushy growth.",
+      "frequency": "once"
+    },
+    {
+      "week": 4,
+      "task": "Regular harvesting",
+      "description": "Cut a few leaves each week to prevent flowering.",
+      "frequency": "weekly"
+    },
+    {
+      "week": 6,
+      "task": "Light feeding",
+      "description": "Add diluted liquid fertilizer with water.",
+      "frequency": "once"
+    },
+    {
+      "week": 8,
+      "task": "Continue harvesting",
+      "description": "Pick leaves as needed. Always cut from the top.",
+      "frequency": "as needed"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "problem": "Yellow leaves",
+      "symptoms": ["Leaves turning yellow", "Plant looks droopy"],
+      "causes": ["Overwatering", "Poor drainage", "Nutrient deficiency"],
+      "solutions": ["Reduce watering", "Improve drainage", "Add fertilizer"]
+    },
+    {
+      "problem": "Leggy growth",
+      "symptoms": ["Tall thin stems", "Few leaves", "Plant reaching for light"],
+      "causes": ["Insufficient sunlight", "Too much fertilizer"],
+      "solutions": ["Move to a sunnier location", "Pinch off top growth", "Reduce fertilizer"]
+    },
+    {
+      "problem": "Flowering too early",
+      "symptoms": ["White flowers appear", "Leaves taste bitter"],
+      "causes": ["Heat stress", "Plant reaching maturity"],
+      "solutions": ["Pinch off flowers", "Harvest leaves regularly", "Keep soil moist"]
+    }
+  ],
+  "harvestingGuide": "Harvest basil leaves when they are large enough to use, about 4-6 weeks after planting. Pinch off individual leaves or cut stems just above a leaf node. Regular harvesting keeps the plant bushy and productive.",
+  "nutrition": {
+    "calories": 22,
+    "vitamins": ["Vitamin A", "Vitamin K", "Vitamin C"],
+    "minerals": ["Iron", "Calcium", "Magnesium", "Potassium"]
+  },
+  "estimatedSavings": "Growing basil at home can save $40–60 per year, since supermarket bunches cost $3-5 and a single plant produces leaves for months.",
+      "images": {
+      "mainPath": "Plants/basil/basil.jpg",
+      "main": "Plants/basil/basil.jpg",
+      "thumbnail": "Plants/basil/basil.jpg"
+    }
+}

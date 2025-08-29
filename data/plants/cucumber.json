@@ -1,0 +1,89 @@
+{
+    "id": "cucumber-001",
+    "name": "Cucumber",
+    "scientificName": "Cucumis sativus",
+    "category": "fruits",
+    "difficulty": "medium",
+    "growthTime": 60,
+    "spaceRequired": "large",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vitagrow-v3-final.appspot.com/o/Plants%2Fcucumber%2Fcucumber.avif?alt=media&token=YOUR_TOKEN_HERE",
+    "basicInfo": {
+      "description": "Cucumbers are fast-growing vines that produce refreshing fruits perfect for salads and pickling. They need warmth, sun, and plenty of space to spread.",
+      "whyGrow": [
+        "Fresh, crunchy cucumbers right from the garden",
+        "Perfect for salads, sandwiches, and pickles",
+        "High yields from a few plants",
+        "Cheaper than buying cucumbers weekly"
+      ],
+      "bestFor": ["outdoor gardens", "intermediate growers", "warm climates"],
+      "spacing": "60–90cm between plants (or train vertically on trellis)",
+      "sunlight": "6–8 hours of full sun daily",
+      "water": "Frequent deep watering, keep soil moist but not waterlogged"
+    },
+    "growingSteps": [
+      "Plant seeds 1–2cm deep directly outdoors after frost risk passes",
+      "Provide a trellis or support for vines to climb",
+      "Water regularly to keep soil consistently moist",
+      "Mulch around plants to retain moisture",
+      "Harvest cucumbers when firm and bright green"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds outdoors",
+        "description": "Plant in warm soil with plenty of sun.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Support setup",
+        "description": "Add trellis or stakes to guide vine growth.",
+        "frequency": "once"
+      },
+      {
+        "week": 4,
+        "task": "Thin plants",
+        "description": "Space vines to prevent overcrowding.",
+        "frequency": "once"
+      },
+      {
+        "week": 6,
+        "task": "First harvest",
+        "description": "Pick cucumbers when firm and 15–20cm long.",
+        "frequency": "weekly"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Bitter taste",
+        "symptoms": ["Cucumbers taste bitter"],
+        "causes": ["Heat stress", "Inconsistent watering"],
+        "solutions": ["Water consistently", "Harvest regularly", "Mulch to keep roots cool"]
+      },
+      {
+        "problem": "Powdery mildew",
+        "symptoms": ["White powder on leaves"],
+        "causes": ["Fungal infection in humid weather"],
+        "solutions": ["Ensure good airflow", "Avoid overhead watering", "Use fungicidal spray if severe"]
+      },
+      {
+        "problem": "Poor fruiting",
+        "symptoms": ["Lots of flowers but few fruits"],
+        "causes": ["Lack of pollination"],
+        "solutions": ["Encourage pollinators", "Hand-pollinate flowers if needed"]
+      }
+    ],
+    "harvestingGuide": "Harvest cucumbers when they reach 15–20cm long and are firm to the touch. Pick frequently to encourage more fruiting. Do not let fruits over-ripen on the vine.",
+    "nutrition": {
+      "calories": 15,
+      "vitamins": ["Vitamin C", "Vitamin K", "Vitamin A"],
+      "minerals": ["Potassium", "Magnesium", "Manganese"]
+    },
+    "estimatedSavings": "Growing cucumbers at home can save $50–80 per season, especially if you eat salads or make pickles regularly.",
+    "images": {
+      "mainPath": "Plants/cucumber/cucumber.avif",
+      "main": "Plants/cucumber/cucumber.avif",
+      "thumbnail": "Plants/cucumber/cucumber.avif"
+    }
+  }
+  

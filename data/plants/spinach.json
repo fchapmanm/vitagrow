@@ -1,0 +1,89 @@
+{
+    "id": "spinach-001",
+    "name": "Spinach",
+    "scientificName": "Spinacia oleracea",
+    "category": "leafy greens",
+    "difficulty": "easy",
+    "growthTime": 40,
+    "spaceRequired": "small",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vitagrow-v3-final.appspot.com/o/Plants%2Fspinach%2Fspinach.avif?alt=media&token=YOUR_TOKEN_HERE",
+    "basicInfo": {
+      "description": "Spinach is a fast-growing leafy green packed with vitamins and minerals. It thrives in cool weather and can be harvested multiple times during the growing season.",
+      "whyGrow": [
+        "Rich in iron and Vitamin K",
+        "Quick harvest – ready in just 4–6 weeks",
+        "Great for salads, smoothies, and cooking",
+        "Regrows after cutting (cut-and-come-again crop)"
+      ],
+      "bestFor": ["beginners", "healthy eaters", "small spaces", "quick results"],
+      "spacing": "15–20cm between plants",
+      "sunlight": "4–6 hours of sun daily (tolerates partial shade)",
+      "water": "Keep soil consistently moist but well-drained"
+    },
+    "growingSteps": [
+      "Sow seeds directly in soil, 1–2cm deep",
+      "Water regularly to keep soil moist",
+      "Thin seedlings to 15–20cm apart",
+      "Harvest outer leaves as needed, leaving inner leaves to grow",
+      "Fertilize lightly every 2–3 weeks for continuous harvest"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds outdoors",
+        "description": "Plant directly in cool soil, water gently.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Thin seedlings",
+        "description": "Leave 15–20cm between plants for healthy growth.",
+        "frequency": "once"
+      },
+      {
+        "week": 3,
+        "task": "Check moisture",
+        "description": "Keep soil evenly moist for tender leaves.",
+        "frequency": "daily"
+      },
+      {
+        "week": 4,
+        "task": "First harvest",
+        "description": "Pick outer leaves and let the center keep growing.",
+        "frequency": "weekly"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Bolting (early flowering)",
+        "symptoms": ["Tall flower stalks", "Leaves turn bitter"],
+        "causes": ["Hot weather", "Stress from lack of water"],
+        "solutions": ["Plant in cooler seasons", "Provide shade in heat", "Harvest promptly"]
+      },
+      {
+        "problem": "Yellow leaves",
+        "symptoms": ["Lower leaves turn yellow"],
+        "causes": ["Overwatering", "Nutrient deficiency"],
+        "solutions": ["Improve drainage", "Add nitrogen fertilizer"]
+      },
+      {
+        "problem": "Leaf spots",
+        "symptoms": ["Brown or yellow spots on leaves"],
+        "causes": ["Fungal infection"],
+        "solutions": ["Avoid overhead watering", "Ensure good airflow", "Remove affected leaves"]
+      }
+    ],
+    "harvestingGuide": "Harvest outer leaves once they reach 8–10cm long. Cut just above the crown to allow continuous regrowth. For full harvest, pull entire plant at 6–8 weeks.",
+    "nutrition": {
+      "calories": 23,
+      "vitamins": ["Vitamin A", "Vitamin C", "Vitamin K", "Folate"],
+      "minerals": ["Iron", "Magnesium", "Potassium", "Calcium"]
+    },
+    "estimatedSavings": "Growing spinach at home can save $40–70 per season, since fresh bunches cost $3–4 weekly.",
+    "images": {
+      "mainPath": "Plants/spinach/spinach.avif",
+      "main": "Plants/spinach/spinach.avif",
+      "thumbnail": "Plants/spinach/spinach.avif"
+    }
+  }
+  

@@ -1,0 +1,82 @@
+{
+    "id": "coriander-001",
+    "name": "Coriander",
+    "scientificName": "Coriandrum sativum",
+    "category": "herbs",
+    "difficulty": "medium",
+    "growthTime": 45,
+    "spaceRequired": "small",
+    "imageUrl": "https://images.unsplash.com/photo-1546470427-e5dd2d8b48d4?w=500&h=500&fit=crop",
+    "basicInfo": {
+      "description": "Coriander, also known as cilantro, is a fast-growing herb used for both its fresh leaves and dried seeds. It grows quickly in cool seasons but can bolt in hot weather.",
+      "whyGrow": [
+        "Adds unique flavor to many dishes",
+        "Leaves and seeds are both edible",
+        "Quick harvest in 4–6 weeks"
+      ],
+      "bestFor": ["fresh cooking", "small gardens", "cool climates"],
+      "spacing": "20-25cm between plants",
+      "sunlight": "4-6 hours of sun, prefers cooler temperatures",
+      "water": "Keep soil moist, avoid waterlogging"
+    },
+    "growingSteps": [
+      "Sow seeds directly into soil, 1 cm deep",
+      "Thin seedlings once they sprout",
+      "Water regularly to keep soil moist",
+      "Harvest leaves early to prevent bolting",
+      "Allow some plants to flower for coriander seeds"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds outdoors",
+        "description": "Plant seeds directly in soil or pots.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Thin seedlings",
+        "description": "Leave strongest plants about 20cm apart.",
+        "frequency": "once"
+      },
+      {
+        "week": 4,
+        "task": "First harvest",
+        "description": "Pick young leaves before plants bolt.",
+        "frequency": "weekly"
+      },
+      {
+        "week": 6,
+        "task": "Seed harvest",
+        "description": "If desired, let plants flower and collect coriander seeds.",
+        "frequency": "once"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Bolting",
+        "symptoms": ["Plants grow tall quickly", "Leaves taste bitter"],
+        "causes": ["Hot weather", "Stress from lack of water"],
+        "solutions": ["Plant in cool season", "Harvest young leaves", "Keep soil moist"]
+      },
+      {
+        "problem": "Yellow leaves",
+        "symptoms": ["Lower leaves yellowing"],
+        "causes": ["Overwatering or poor drainage"],
+        "solutions": ["Improve drainage", "Reduce watering"]
+      }
+    ],
+    "harvestingGuide": "Harvest coriander leaves when they reach 10-15cm. Cut outer leaves first or harvest whole plants. For seeds, allow the plant to flower and dry before collecting.",
+    "nutrition": {
+      "calories": 23,
+      "vitamins": ["Vitamin A", "Vitamin K", "Vitamin C"],
+      "minerals": ["Calcium", "Iron", "Magnesium"]
+    },
+    "estimatedSavings": "Growing coriander at home can save $30–50 per year compared to buying bunches from supermarkets.",
+    "images": {
+      "mainPath": "Plants/coriander/coriander.avif",
+      "main": "Plants/coriander/coriander.avif",
+      "thumbnail": "Plants/coriander/coriander.avif"
+    }
+  }
+  

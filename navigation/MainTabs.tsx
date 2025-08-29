@@ -10,13 +10,12 @@ import Share from '../screens/main/Share';
 const Tab = createBottomTabNavigator();
 
 export default function MainTabs() {
-  console.log('MainTabs component mounted'); // Log para debugging
-
   return (
     <Tab.Navigator
       initialRouteName="Home"
       screenOptions={({ route }) => ({
         headerShown: false,
+        unmountOnBlur: false, // Keep screens mounted when not focused for smoother transitions
         tabBarIcon: ({ color, size }) => {
           let iconName: keyof typeof Ionicons.glyphMap = 'home';
 

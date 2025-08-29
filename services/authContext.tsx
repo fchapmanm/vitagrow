@@ -36,12 +36,16 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
       setIsGuest(guest === 'true');
     };
 
-    const unsubscribe = onAuthStateChanged(auth, (firebaseUser) => {
+    const unsubscribe = onAuthStateChanged(auth, async (firebaseUser) => {
       setUser(firebaseUser);
       setIsLoading(false);
       
-      // Si no hay usuario autenticado, asegurar que esté en modo invitado
-      if (!firebaseUser) {
+      if (firebaseUser) {
+        // Usuario logueado - limpiar modo invitado
+        await AsyncStorage.removeItem('isGuest');
+        setIsGuest(false);
+      } else {
+        // No hay usuario autenticado - verificar si está en modo invitado
         checkGuest();
       }
     });

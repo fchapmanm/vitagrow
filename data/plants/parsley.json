@@ -1,0 +1,81 @@
+{
+    "id": "parsley-001",
+    "name": "Parsley",
+    "scientificName": "Petroselinum crispum",
+    "category": "herbs",
+    "difficulty": "easy",
+    "growthTime": 70,
+    "spaceRequired": "small",
+    "imageUrl": "https://images.unsplash.com/photo-1546470427-e5dd2d8b48d4?w=500&h=500&fit=crop",
+    "basicInfo": {
+      "description": "Parsley is a hardy biennial herb commonly grown for its fresh leaves. It grows slowly at first but produces for many months once established.",
+      "whyGrow": [
+        "Essential garnish and flavoring herb",
+        "Long harvest period",
+        "Cold tolerant and easy to grow"
+      ],
+      "bestFor": ["herb gardens", "container growing", "cool climates"],
+      "spacing": "20cm between plants",
+      "sunlight": "4-6 hours of direct sun or partial shade",
+      "water": "Water regularly, keep soil moist but not soggy"
+    },
+    "growingSteps": [
+      "Soak seeds overnight before planting",
+      "Sow seeds 1 cm deep in moist soil",
+      "Thin seedlings once they sprout",
+      "Harvest leaves regularly to encourage new growth"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Soak and sow seeds",
+        "description": "Soak seeds overnight, then plant directly in soil.",
+        "frequency": "once"
+      },
+      {
+        "week": 3,
+        "task": "Thin seedlings",
+        "description": "Leave strongest plants spaced 20cm apart.",
+        "frequency": "once"
+      },
+      {
+        "week": 6,
+        "task": "First light harvest",
+        "description": "Pick a few outer leaves without damaging the center.",
+        "frequency": "weekly"
+      },
+      {
+        "week": 10,
+        "task": "Regular harvest",
+        "description": "Cut outer leaves to keep plant producing.",
+        "frequency": "weekly"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Slow germination",
+        "symptoms": ["Seeds not sprouting for weeks"],
+        "causes": ["Parsley seeds naturally slow to germinate"],
+        "solutions": ["Soak seeds overnight", "Be patient, germination can take 3 weeks"]
+      },
+      {
+        "problem": "Yellow leaves",
+        "symptoms": ["Outer leaves turning yellow"],
+        "causes": ["Overwatering or nutrient deficiency"],
+        "solutions": ["Reduce watering", "Add balanced fertilizer"]
+      }
+    ],
+    "harvestingGuide": "Harvest parsley by cutting outer leaves first. Always leave the inner stems to grow. Continuous harvesting encourages more leaves.",
+    "nutrition": {
+      "calories": 36,
+      "vitamins": ["Vitamin A", "Vitamin C", "Vitamin K", "Folate"],
+      "minerals": ["Calcium", "Iron", "Magnesium", "Potassium"]
+    },
+    "estimatedSavings": "Growing parsley at home can save $30–40 per year, as store-bought bunches cost $3–4 and spoil quickly.",
+    "images": {
+      "mainPath": "Plants/parsley/parsley.avif",
+      "main": "Plants/parsley/parsley.avif",
+      "thumbnail": "Plants/parsley/parsley.avif"
+    }
+  }
+  

@@ -15,6 +15,7 @@ export default function Profile() {
     <View style={styles.container}>
       <Text style={styles.title}>Profile</Text>
       <Text style={styles.subtitle}>Your VitaGrow profile info will appear here.</Text>
+      
       {!isLoggedIn && (
         <TouchableOpacity style={styles.loginBtn} onPress={handleLogin}>
           <Text style={styles.loginText}>Log In / Register</Text>

@@ -1,0 +1,93 @@
+{
+  "id": "tomato-001",
+  "name": "Tomato",
+  "scientificName": "Solanum lycopersicum",
+  "category": "fruits",
+  "difficulty": "medium",
+  "growthTime": 90,
+  "spaceRequired": "large",
+  "basicInfo": {
+    "description": "Classic tomatoes are the king of the home garden. These full-sized tomatoes are perfect for slicing, cooking, and making sauces. More challenging than cherry tomatoes but incredibly rewarding.",
+    "whyGrow": [
+      "Unmatched homegrown flavor",
+      "Versatile for salads, sauces, and cooking",
+      "One plant can yield 4–6 kg of fruit"
+    ],
+    "bestFor": ["intermediate growers", "outdoor gardens", "cooking enthusiasts"],
+    "spacing": "45-60cm between plants",
+    "sunlight": "6-8 hours of full sun daily",
+    "water": "Deep watering 2-3 times per week, keep soil evenly moist"
+  },
+  "growingSteps": [
+    "Prepare nutrient-rich soil with compost",
+    "Plant seeds 0.5 cm deep indoors 6-8 weeks before last frost",
+    "Transplant seedlings outdoors after frost risk passes",
+    "Stake or cage plants to support growth",
+    "Water deeply and mulch to retain moisture",
+    "Harvest ripe tomatoes when fully colored"
+  ],
+  "careCalendar": [
+    {
+      "week": 1,
+      "task": "Sow seeds indoors",
+      "description": "Start seeds in trays with moist potting mix.",
+      "frequency": "once"
+    },
+    {
+      "week": 6,
+      "task": "Transplant outdoors",
+      "description": "Move seedlings to garden after frost danger is gone.",
+      "frequency": "once"
+    },
+    {
+      "week": 8,
+      "task": "Stake plants",
+      "description": "Support plants with stakes or cages as they grow taller.",
+      "frequency": "once"
+    },
+    {
+      "week": 10,
+      "task": "Fertilize",
+      "description": "Apply balanced fertilizer to encourage fruiting.",
+      "frequency": "biweekly"
+    },
+    {
+      "week": 12,
+      "task": "First harvest",
+      "description": "Pick first ripe tomatoes and continue harvesting regularly.",
+      "frequency": "weekly"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "problem": "Blossom end rot",
+      "symptoms": ["Dark sunken spots on fruit bottoms"],
+      "causes": ["Calcium deficiency", "Inconsistent watering"],
+      "solutions": ["Maintain even watering", "Add calcium supplement"]
+    },
+    {
+      "problem": "Yellowing leaves",
+      "symptoms": ["Lower leaves turning yellow"],
+      "causes": ["Nitrogen deficiency"],
+      "solutions": ["Apply nitrogen-rich fertilizer"]
+    },
+    {
+      "problem": "Cracked fruit",
+      "symptoms": ["Splits or cracks in ripe tomatoes"],
+      "causes": ["Irregular watering"],
+      "solutions": ["Water consistently", "Mulch to retain soil moisture"]
+    }
+  ],
+  "harvestingGuide": "Harvest tomatoes when fully colored and slightly soft to the touch. Twist gently or cut with scissors to avoid damaging the vine. Regular harvesting encourages more fruit production.",
+  "nutrition": {
+    "calories": 18,
+    "vitamins": ["Vitamin C", "Vitamin A", "Vitamin K", "Folate"],
+    "minerals": ["Potassium", "Manganese", "Magnesium"]
+  },
+  "estimatedSavings": "Growing tomatoes at home can save $100–150 per season, especially if you cook often with sauces or salads.",
+  "images": {
+    "mainPath": "Plants/tomato/tomato.avif",
+    "main": "Plants/tomato/tomato.avif",
+    "thumbnail": "Plants/tomato/tomato.avif"
+  }
+}

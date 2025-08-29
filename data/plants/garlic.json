@@ -1,0 +1,90 @@
+{
+    "id": "garlic-001",
+    "name": "Garlic",
+    "scientificName": "Allium sativum",
+    "category": "vegetables",
+    "difficulty": "easy",
+    "growthTime": 150,
+    "spaceRequired": "small",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vitagrow-v3-final.appspot.com/o/Plants%2Fgarlic%2Fgarlic.avif?alt=media&token=YOUR_TOKEN_HERE",
+    "basicInfo": {
+      "description": "Garlic is a low-maintenance crop that rewards you with flavorful bulbs. It’s planted once and grows steadily over several months, making it ideal for beginners.",
+      "whyGrow": [
+        "Essential kitchen ingredient with strong flavor",
+        "Stores well for months after harvest",
+        "Low-maintenance crop",
+        "Repels pests naturally"
+      ],
+      "bestFor": ["beginners", "long-term growers", "home cooking"],
+      "spacing": "10–15cm between cloves, 25–30cm between rows",
+      "sunlight": "6–8 hours of direct sun daily",
+      "water": "Moderate watering, keep soil evenly moist but not soggy"
+    },
+    "growingSteps": [
+      "Break a garlic bulb into individual cloves",
+      "Plant cloves 5cm deep with pointed side up in well-drained soil",
+      "Space cloves 10–15cm apart",
+      "Mulch to conserve moisture and suppress weeds",
+      "Water moderately during growth",
+      "Harvest when lower leaves turn brown and tops begin to fall over"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Plant cloves",
+        "description": "Place cloves pointed side up 5cm deep.",
+        "frequency": "once"
+      },
+      {
+        "week": 4,
+        "task": "Mulch soil",
+        "description": "Apply a layer of mulch to keep soil moist and suppress weeds.",
+        "frequency": "once"
+      },
+      {
+        "week": 8,
+        "task": "Weeding",
+        "description": "Remove weeds around garlic plants to reduce competition.",
+        "frequency": "weekly"
+      },
+      {
+        "week": 20,
+        "task": "Harvest bulbs",
+        "description": "Pull garlic when leaves yellow and tops fall over.",
+        "frequency": "once"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Yellowing leaves",
+        "symptoms": ["Leaves turn pale or yellow"],
+        "causes": ["Overwatering", "Nutrient deficiency"],
+        "solutions": ["Check drainage", "Add nitrogen-rich fertilizer"]
+      },
+      {
+        "problem": "Small bulbs",
+        "symptoms": ["Garlic bulbs remain small"],
+        "causes": ["Planting cloves too close", "Poor soil fertility"],
+        "solutions": ["Space cloves correctly", "Amend soil with compost"]
+      },
+      {
+        "problem": "Rotten cloves",
+        "symptoms": ["Soft, mushy cloves at harvest"],
+        "causes": ["Waterlogged soil", "Fungal infections"],
+        "solutions": ["Improve drainage", "Avoid overwatering"]
+      }
+    ],
+    "harvestingGuide": "Harvest garlic when 2/3 of leaves have yellowed. Gently loosen soil and pull bulbs. Cure by drying in a shaded, airy place for 2–3 weeks before storage.",
+    "nutrition": {
+      "calories": 149,
+      "vitamins": ["Vitamin B6", "Vitamin C"],
+      "minerals": ["Manganese", "Selenium", "Calcium", "Iron"]
+    },
+    "estimatedSavings": "Growing garlic can save $40–80 per year, since supermarket garlic can be costly compared to a few homegrown bulbs that multiply easily.",
+    "images": {
+      "mainPath": "Plants/garlic/garlic.avif",
+      "main": "Plants/garlic/garlic.avif",
+      "thumbnail": "Plants/garlic/garlic.avif"
+    }
+  }
+  

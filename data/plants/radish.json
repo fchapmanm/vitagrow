@@ -1,0 +1,89 @@
+{
+    "id": "radish-001",
+    "name": "Radish",
+    "scientificName": "Raphanus sativus",
+    "category": "vegetables",
+    "difficulty": "easy",
+    "growthTime": 30,
+    "spaceRequired": "small",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vitagrow-v3-final.appspot.com/o/Plants%2Fradish%2Fradish.avif?alt=media&token=YOUR_TOKEN_HERE",
+    "basicInfo": {
+      "description": "Radishes are one of the fastest-growing vegetables, ready to harvest in less than a month. Perfect for beginners and great for adding a peppery crunch to salads.",
+      "whyGrow": [
+        "Super fast harvest – ready in 3–4 weeks",
+        "Low-maintenance and grows in small spaces",
+        "Adds fresh, peppery flavor to dishes",
+        "Great starter crop for kids and beginners"
+      ],
+      "bestFor": ["beginners", "quick harvests", "small gardens"],
+      "spacing": "5–10cm between plants, 20cm between rows",
+      "sunlight": "4–6 hours of sun daily (can tolerate partial shade)",
+      "water": "Keep soil evenly moist to avoid woody or bitter roots"
+    },
+    "growingSteps": [
+      "Prepare loose, well-drained soil with compost",
+      "Sow seeds directly 1cm deep, 2–3cm apart",
+      "Thin seedlings to 5–10cm spacing once they sprout",
+      "Keep soil moist for rapid growth",
+      "Harvest radishes when roots are 2–3cm in diameter"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds",
+        "description": "Directly sow radish seeds into soil 1cm deep.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Thin seedlings",
+        "description": "Remove extra seedlings to leave 5–10cm between plants.",
+        "frequency": "once"
+      },
+      {
+        "week": 3,
+        "task": "Water regularly",
+        "description": "Keep soil moist to avoid woody or cracked roots.",
+        "frequency": "2–3 times per week"
+      },
+      {
+        "week": 4,
+        "task": "Harvest",
+        "description": "Pull radishes when roots reach 2–3cm in size.",
+        "frequency": "once"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Woody or bitter roots",
+        "symptoms": ["Tough texture", "Strong bitter taste"],
+        "causes": ["Soil too dry", "Harvesting too late"],
+        "solutions": ["Water consistently", "Harvest on time"]
+      },
+      {
+        "problem": "Cracked roots",
+        "symptoms": ["Radishes split open"],
+        "causes": ["Inconsistent watering"],
+        "solutions": ["Keep soil moisture even"]
+      },
+      {
+        "problem": "Lots of leaves, small roots",
+        "symptoms": ["Big leafy tops but tiny roots"],
+        "causes": ["Too much nitrogen fertilizer", "Overcrowding"],
+        "solutions": ["Avoid excess fertilizer", "Thin seedlings properly"]
+      }
+    ],
+    "harvestingGuide": "Harvest radishes 3–4 weeks after sowing when roots are about 2–3cm across. Don’t wait too long, or they become woody. Pull gently from the soil by the tops.",
+    "nutrition": {
+      "calories": 16,
+      "vitamins": ["Vitamin C", "Folate"],
+      "minerals": ["Potassium", "Calcium", "Magnesium"]
+    },
+    "estimatedSavings": "Growing radishes can save $20–40 per season since store-bought bunches cost $2–3 each, but homegrown radishes are plentiful and cheap.",
+    "images": {
+      "mainPath": "Plants/radish/radish.avif",
+      "main": "Plants/radish/radish.avif",
+      "thumbnail": "Plants/radish/radish.avif"
+    }
+  }
+  

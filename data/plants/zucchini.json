@@ -1,0 +1,89 @@
+{
+    "id": "zucchini-001",
+    "name": "Zucchini",
+    "scientificName": "Cucurbita pepo",
+    "category": "fruits",
+    "difficulty": "easy",
+    "growthTime": 50,
+    "spaceRequired": "large",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vitagrow-v3-final.appspot.com/o/Plants%2Fzucchini%2Fzucchini.avif?alt=media&token=YOUR_TOKEN_HERE",
+    "basicInfo": {
+      "description": "Zucchini is a fast-growing summer squash that produces abundantly. A few plants can provide enough harvests for a family, making it a favorite in home gardens.",
+      "whyGrow": [
+        "High-yielding and quick to grow",
+        "Versatile in cooking: grilled, sautéed, baked, or in soups",
+        "Produces fruit within 6–8 weeks",
+        "Great value compared to store-bought zucchini"
+      ],
+      "bestFor": ["beginners", "outdoor gardens", "high yield"],
+      "spacing": "90cm between plants (sprawling growth)",
+      "sunlight": "6–8 hours of full sun daily",
+      "water": "Keep soil evenly moist with deep watering 2–3 times a week"
+    },
+    "growingSteps": [
+      "Sow seeds directly outdoors 2–3cm deep after frost has passed",
+      "Space plants widely to allow for spreading vines",
+      "Water regularly and mulch to retain soil moisture",
+      "Harvest zucchinis when 15–20cm long for best flavor and texture",
+      "Pick often to encourage continuous production"
+    ],
+    "careCalendar": [
+      {
+        "week": 1,
+        "task": "Sow seeds outdoors",
+        "description": "Plant seeds in warm, sunny soil.",
+        "frequency": "once"
+      },
+      {
+        "week": 2,
+        "task": "Thin seedlings",
+        "description": "Leave strongest plants spaced at least 90cm apart.",
+        "frequency": "once"
+      },
+      {
+        "week": 4,
+        "task": "Mulch around base",
+        "description": "Apply mulch to retain moisture and prevent weeds.",
+        "frequency": "once"
+      },
+      {
+        "week": 6,
+        "task": "First harvest",
+        "description": "Pick zucchinis when they are 15–20cm long.",
+        "frequency": "weekly"
+      }
+    ],
+    "troubleshooting": [
+      {
+        "problem": "Powdery mildew",
+        "symptoms": ["White powdery coating on leaves"],
+        "causes": ["High humidity and poor airflow"],
+        "solutions": ["Ensure good spacing", "Remove affected leaves", "Use fungicide if severe"]
+      },
+      {
+        "problem": "Blossom end rot",
+        "symptoms": ["Dark, sunken spots on zucchini tips"],
+        "causes": ["Calcium deficiency", "Inconsistent watering"],
+        "solutions": ["Keep watering consistent", "Add calcium supplement if needed"]
+      },
+      {
+        "problem": "Poor fruit set",
+        "symptoms": ["Lots of flowers but no zucchinis"],
+        "causes": ["Lack of pollination"],
+        "solutions": ["Encourage bees with flowers nearby", "Hand-pollinate if necessary"]
+      }
+    ],
+    "harvestingGuide": "Harvest zucchinis when 15–20cm long for tender texture. Regular harvesting every few days encourages plants to keep producing throughout the season.",
+    "nutrition": {
+      "calories": 17,
+      "vitamins": ["Vitamin C", "Vitamin A", "Vitamin K", "Folate"],
+      "minerals": ["Potassium", "Magnesium", "Manganese"]
+    },
+    "estimatedSavings": "Growing zucchinis at home can save $60–90 per season, as plants are prolific and store-bought zucchinis can be expensive.",
+    "images": {
+      "mainPath": "Plants/zucchini/zucchini.avif",
+      "main": "Plants/zucchini/zucchini.avif",
+      "thumbnail": "Plants/zucchini/zucchini.avif"
+    }
+  }
+  

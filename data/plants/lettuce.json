@@ -1,0 +1,81 @@
+{
+  "id": "lettuce-001",
+  "name": "Lettuce",
+  "scientificName": "Lactuca sativa",
+  "category": "leafy",
+  "difficulty": "easy",
+  "growthTime": 55,
+  "spaceRequired": "small",
+  "imageUrl": "https://images.unsplash.com/photo-1546470427-e5dd2d8b48d4?w=500&h=500&fit=crop",
+  "basicInfo": {
+    "description": "Lettuce is a cool-season leafy green that grows quickly and is ideal for beginners. It thrives in small spaces and can be harvested in just 6–8 weeks.",
+    "whyGrow": [
+      "Fast harvest in under 2 months",
+      "Great for fresh salads and wraps",
+      "Can be grown in containers or small gardens"
+    ],
+    "bestFor": ["beginners", "small gardens", "quick harvest"],
+    "spacing": "20-25cm between plants",
+    "sunlight": "4-6 hours of sun, tolerates partial shade",
+    "water": "Keep soil consistently moist but not waterlogged"
+  },
+  "growingSteps": [
+    "Prepare loose, fertile soil with compost",
+    "Sow seeds 0.5 cm deep directly outdoors or in containers",
+    "Thin seedlings to allow proper spacing",
+    "Water regularly to keep soil moist",
+    "Harvest outer leaves first or the full head after 6-8 weeks"
+  ],
+  "careCalendar": [
+    {
+      "week": 1,
+      "task": "Sow seeds",
+      "description": "Plant seeds directly in garden soil or containers.",
+      "frequency": "once"
+    },
+    {
+      "week": 2,
+      "task": "Thin seedlings",
+      "description": "Remove weaker sprouts, leaving 20cm between plants.",
+      "frequency": "once"
+    },
+    {
+      "week": 3,
+      "task": "Regular watering",
+      "description": "Check soil daily and water when the top feels dry.",
+      "frequency": "daily"
+    },
+    {
+      "week": 6,
+      "task": "First harvest",
+      "description": "Cut outer leaves and let the rest keep growing.",
+      "frequency": "weekly"
+    }
+  ],
+  "troubleshooting": [
+    {
+      "problem": "Bolting",
+      "symptoms": ["Plant grows tall quickly", "Leaves taste bitter"],
+      "causes": ["Hot weather", "Stress from lack of water"],
+      "solutions": ["Plant in cooler season", "Harvest early", "Provide consistent watering"]
+    },
+    {
+      "problem": "Slugs and snails",
+      "symptoms": ["Holes in leaves", "Slime trails"],
+      "causes": ["Moist conditions", "Night activity"],
+      "solutions": ["Use barriers or traps", "Harvest regularly to reduce hiding spots"]
+    }
+  ],
+  "harvestingGuide": "Harvest lettuce by cutting outer leaves when they reach 10–15 cm, or harvest the full head at once after 6–8 weeks. Regular picking encourages continuous growth.",
+  "nutrition": {
+    "calories": 15,
+    "vitamins": ["Vitamin A", "Vitamin K", "Vitamin C", "Folate"],
+    "minerals": ["Iron", "Calcium", "Potassium"]
+  },
+  "estimatedSavings": "Growing lettuce at home can save $50–80 per season, especially if you eat salads regularly.",
+  "images": {
+    "mainPath": "Plants/lettuce/lettuce.avif",
+      "main": "Plants/lettuce/lettuce.avif",
+      "thumbnail": "Plants/lettuce/lettuce.avif"
+  }
+}
